@@ -52,7 +52,7 @@ The project cleans the dataset, creates new calculated columns, and visualizes t
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-6. Run the script:
+4. Run the script:
 
    ```bash
    python medico_data_visual.py
