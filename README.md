@@ -45,9 +45,7 @@ The project cleans the dataset, creates new calculated columns, and visualizes t
 ###  How to Run
 
 1. Download or clone the repository.
- 
-2.. Make sure you have Python installed.
- 
+2. Make sure you have Python installed.
 3. Install required libraries:
 
 
