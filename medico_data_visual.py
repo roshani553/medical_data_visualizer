@@ -2,10 +2,6 @@ import pandas as pd
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 df = pd.read_csv('medical_examination.csv')
 print(df.head())
 # Step 1: Add BMI column
@@ -57,4 +53,5 @@ sns.heatmap(corr, mask=mask, annot=True, fmt=".1f", cmap="coolwarm", center=0, s
 plt.title("Correlation Heatmap of Medical Data", fontsize=14)
 plt.show()
 plt.show(block=True)
+
 
