@@ -58,3 +58,9 @@ The project cleans the dataset, creates new calculated columns, and visualizes t
    python medico_data_visual.py
    ```
 
+   <img width="1055" height="578" alt="Screenshot 2025-11-08 131444" src="https://github.com/user-attachments/assets/191910fd-4653-418a-ba59-c7d45e31931d" />
+
+   <img width="1000" height="867" alt="Screenshot 2025-11-08 132642" src="https://github.com/user-attachments/assets/55a2f84e-3090-4daa-bac8-8514c06742b0" />
+
+
+
